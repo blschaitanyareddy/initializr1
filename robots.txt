@@ -4,3 +4,6 @@
 User-agent: *
 Disallow:
 This is added to test git pull and git push
+This is added to test git push and git pull
+The command
+The push
